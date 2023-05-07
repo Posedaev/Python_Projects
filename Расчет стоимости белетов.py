@@ -10,4 +10,3 @@ elif age > 24 and tickets > 3:
     print("К оплате: ", int((1390 - 1390 * 10 / 100) * tickets), "Рублeй")
 else:
     print("К оплате: ", tickets * 1390, "Рублeй")
-
